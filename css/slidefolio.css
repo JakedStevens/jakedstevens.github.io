@@ -379,6 +379,13 @@ height:auto !important;
 .modal-dialog {
 width:60% !important;
 }
+.myImages{
+  transform: rotate(0deg);
+}
+.myProfilePic{
+  height: 430px;
+  width: 400px;
+}
 
 /* Footer */
 
