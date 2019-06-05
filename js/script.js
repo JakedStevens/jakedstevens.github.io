@@ -1,10 +1,3 @@
-//
-//	jQuery Validate example script
-//
-//	Prepared by David Cochran
-//
-//	Free for your use -- No warranties, no guarantees!
-//
 
 $(document).ready(function(){
 
